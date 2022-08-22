@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1591504524 source:d:\kie1008_asgn1_group2_kie190003_kie190053\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<bits/stdc++.h>
+	"quiz.h"
+	"resistance.h"
+	"random.h"
+
+1591504004 d:\kie1008_asgn1_group2_kie190003_kie190053\quiz.h
+	<iostream>
+	<string>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<bits/stdc++.h>
+	"quiz.h"
+	"resistance.h"
+	"random.h"
+
+1591447666 d:\kie1008_asgn1_group2_kie190003_kie190053\resistance.h
+	<iostream>
+	<string>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<bits/stdc++.h>
+	"quiz.h"
+	"resistance.h"
+	"random.h"
+
+1591447656 d:\kie1008_asgn1_group2_kie190003_kie190053\random.h
+	<iostream>
+	<string>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<bits/stdc++.h>
+	"quiz.h"
+	"resistance.h"
+	"random.h"
+
